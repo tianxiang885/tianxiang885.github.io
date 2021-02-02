@@ -672,19 +672,19 @@ a img.aligncenter {
 }
 
 .demo-2 .page-view .project:nth-child(1) {
-  background-image: url(uploads/banner-01.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/tianxiang885/tianxiang885.github.io@main/uploads/banner-01.jpg);
 }
 
 .demo-2 .page-view .project:nth-child(2) {
-  background-image: url(uploads/banner-02.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/tianxiang885/tianxiang885.github.io@main/uploads/banner-02.jpg);
 }
 
 .demo-2 .page-view .project:nth-child(3) {
-  background-image: url(uploads/banner-03.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/tianxiang885/tianxiang885.github.io@main/uploads/banner-03.jpg);
 }
 
 .demo-2 .page-view .project:nth-child(4) {
-  background-image: url(uploads/banner-04.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/tianxiang885/tianxiang885.github.io@main/uploads/banner-04.jpg);
 }
 
 .demo-2 .page-view .project:nth-child(odd).hide {
